@@ -4,9 +4,11 @@ A collection of analog and digital electronic systems designed, simulated, and v
 
 These projects demonstrate practical circuit design, finite-state control logic, signal amplification, and system-level electrical validation.
 
+
 ## Project Portfolio
 
-### 1️⃣ Motor Control Finite-State Machine (FSM)
+
+### Motor Control Finite-State Machine (FSM)
 
 Designed a safety-driven motor engagement system for control rod positioning in a nuclear reactor model.
 
@@ -25,9 +27,8 @@ Designed a safety-driven motor engagement system for control rod positioning in 
 
 This project demonstrates structured digital control design applicable to industrial automation and embedded safety systems.
 
----
 
-### 2️⃣ Multi-Stage Analog Amplifier
+### Multi-Stage Analog Amplifier
 
 Designed and validated a discrete BJT multi-stage amplifier to deliver ≥1 mW into an 820Ω load.
 
@@ -47,9 +48,8 @@ Designed and validated a discrete BJT multi-stage amplifier to deliver ≥1 mW i
 
 This project highlights analog signal amplification, frequency response analysis, and real-world hardware validation.
 
----
 
-### 3️⃣ Digital Water Level Monitoring System
+### Digital Water Level Monitoring System
 
 Designed a digital logic-based water level detection system for a nuclear power plant spent fuel pool model.
 
@@ -67,7 +67,6 @@ Designed a digital logic-based water level detection system for a nuclear power 
 
 This project demonstrates digital logic implementation and structured system validation.
 
----
 
 ## Tools & Platforms
 
@@ -76,6 +75,7 @@ This project demonstrates digital logic implementation and structured system val
 - Breadboard hardware implementation  
 - Discrete transistor-based design  
 - Analog frequency response analysis  
+
 
 ## Engineering Themes Demonstrated
 
